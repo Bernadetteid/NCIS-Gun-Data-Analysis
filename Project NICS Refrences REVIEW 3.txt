@@ -1,0 +1,10 @@
+
+The FBI Gun Data was mirrowed to create this analysis.
+
+The data source was originally from Github.
+
+A case study of the NICS system was used in the analysis.
+
+Project Rubric was used to review the project.
+
+Google and youtube for some functionalities.
